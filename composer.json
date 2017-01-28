@@ -1,7 +1,11 @@
-{
+{	
+    "name": "ksarat/container",
+    "description": "container",
+    "require": {
+        "php": "^5.6 || ^7.0"       
+    }
 	"autoload": {
 		"psr-4": {
-
 			"ConfigDataProvider\\": "dataProvider/",
 			"ConfigDataProvider\\ConfigFileDataProvider\\": "dataProvider/fileDataProvider/",
 			"Config\\": "config/",
@@ -11,5 +15,4 @@
 		}
 
 	}
-
 }
