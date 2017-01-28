@@ -1,0 +1,15 @@
+{
+	"autoload": {
+		"psr-4": {
+
+			"ConfigDataProvider\\": "dataProvider/",
+			"ConfigDataProvider\\ConfigFileDataProvider\\": "dataProvider/fileDataProvider/",
+			"Config\\": "config/",
+			"ConfigContainerDumper\\": "ConfigContainerDumper/",
+			"Exception\\": "Exceptions/",
+			"ConfigDataProvider\\Factory\\": "DataProvider/Factory/"
+		}
+
+	}
+
+}

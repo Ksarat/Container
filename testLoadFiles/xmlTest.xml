@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <db>
+        <host>localhost</host>
+        <pass>this</pass>
+    </db>
+    <api>
+        <class>
+            <name>configerr</name>
+        </class>
+    </api>
+</config>
+
+
